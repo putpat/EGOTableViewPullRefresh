@@ -1,5 +1,4 @@
-ent_upload_path
-d::Spec.new do |s|
+Pod::Spec.new do |s|
   s.name     = 'EGOTableViewPullRefresh'
   s.version  = '0.1.0'
   s.platform = :ios
